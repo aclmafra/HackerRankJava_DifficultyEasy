@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class second_exercise {
 
     public static void main(String[] args) {
+
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
         int b = scan.nextInt();
@@ -15,3 +16,5 @@ public class second_exercise {
         System.out.println(c);
     }
 }
+
+//Link to the respective question: https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true

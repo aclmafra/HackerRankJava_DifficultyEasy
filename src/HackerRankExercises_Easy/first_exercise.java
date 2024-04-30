@@ -8,3 +8,5 @@ public class first_exercise {
     }
     
 }
+
+//Link to the respective question: https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true
