@@ -1,18 +1,24 @@
-## Getting Started
+#First Exercise
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to the world of Java! In this challenge, we practice printing to stdout.
 
-## Folder Structure
+The code stubs in your editor declare a Solution class and a main method. Complete the main method by copying the two lines of code below and pasting them inside the body of your main method.
 
-The workspace contains two folders by default, where:
+          System.out.println("Hello, World.");
+          System.out.println("Hello, Java.");
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+**Input Format**
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+There is no input for this challenge.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+**Output Format**
 
-## Dependency Management
+You must print two lines of output:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1.Print Hello, World. on the first line.
+2.Print Hello, Java. on the second line.
+
+**Sample Output**
+
+          Hello, World.
+          Hello, Java.
