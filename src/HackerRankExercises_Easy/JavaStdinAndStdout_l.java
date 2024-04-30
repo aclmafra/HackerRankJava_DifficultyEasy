@@ -2,7 +2,7 @@ package HackerRankExercises_Easy;
 
 import java.util.Scanner;
 
-public class second_exercise {
+public class JavaStdinAndStdout_l {
 
     public static void main(String[] args) {
 

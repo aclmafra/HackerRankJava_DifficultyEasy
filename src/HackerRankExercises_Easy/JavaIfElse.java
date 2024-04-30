@@ -2,7 +2,7 @@ package HackerRankExercises_Easy;
 
 import java.util.Scanner;
 
-public class third_exercise {
+public class JavaIfElse {
 
     private static final Scanner scanner = new Scanner(System.in);
 

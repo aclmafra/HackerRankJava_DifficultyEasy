@@ -2,7 +2,7 @@ package HackerRankExercises_Easy;
 
 import java.util.Scanner;
 
-public class fourth_exercise {
+public class JavaStdinAndStdout_ll {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
@@ -19,3 +19,5 @@ public class fourth_exercise {
     scan.close();
     }
 }
+
+//Link to the respective question:https://www.hackerrank.com/challenges/java-stdin-stdout/problem?isFullScreen=true
