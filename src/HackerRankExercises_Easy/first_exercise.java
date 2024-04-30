@@ -1,4 +1,4 @@
-package HackerRankExercises;
+package HackerRankExercises_Easy;
 
 public class first_exercise {
 
